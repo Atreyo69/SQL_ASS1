@@ -1,3 +1,4 @@
+CREATE DATABASE todolist;
 use todolist;
 
 create table todol
